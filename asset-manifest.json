@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Luxe-Restaurant/static/css/main.5c1c3b5f.css",
+    "main.js": "/Luxe-Restaurant/static/js/main.36371dca.js",
+    "static/media/video.mp4": "/Luxe-Restaurant/static/media/video.2db4d7813ca29b28eaaa.mp4",
+    "static/media/bg.png": "/Luxe-Restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/gallery07.png": "/Luxe-Restaurant/static/media/gallery07.6a6694e3e2ea1d83f3cf.png",
+    "static/media/welcome.png": "/Luxe-Restaurant/static/media/welcome.034c072826a759da0878.png",
+    "static/media/gallery05.png": "/Luxe-Restaurant/static/media/gallery05.f3df002f81fbb9de2fb1.png",
+    "static/media/findus.png": "/Luxe-Restaurant/static/media/findus.be44465a91b7cd59bece.png",
+    "static/media/gallery02.png": "/Luxe-Restaurant/static/media/gallery02.c127eaff6230f6c7f0e5.png",
+    "static/media/chef.png": "/Luxe-Restaurant/static/media/chef.2f77628e8c89b1de1a04.png",
+    "static/media/gallery03.png": "/Luxe-Restaurant/static/media/gallery03.3411bb082cde67f7cdea.png",
+    "static/media/gallery01.png": "/Luxe-Restaurant/static/media/gallery01.99d2d8185561b45ba598.png",
+    "static/media/gallery06.png": "/Luxe-Restaurant/static/media/gallery06.b452fffcb9c3ce2842b0.png",
+    "static/media/gallery04.png": "/Luxe-Restaurant/static/media/gallery04.80bdf3914b95c100b3f7.png",
+    "static/media/overlaybg.png": "/Luxe-Restaurant/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/menu.png": "/Luxe-Restaurant/static/media/menu.281a79be95b6bc997622.png",
+    "static/media/fork.png": "/Luxe-Restaurant/static/media/fork.78ecc353ec90afb3248b.png",
+    "static/media/luxe.png": "/Luxe-Restaurant/static/media/luxe.bb24ce40c0b18831b3eb.png",
+    "static/media/sign.png": "/Luxe-Restaurant/static/media/sign.08902576324a7cebe5fd.png",
+    "static/media/logo.png": "/Luxe-Restaurant/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/L.png": "/Luxe-Restaurant/static/media/L.92c40e33adfc753375d1.png",
+    "static/media/spoon.svg": "/Luxe-Restaurant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "index.html": "/Luxe-Restaurant/index.html",
+    "main.5c1c3b5f.css.map": "/Luxe-Restaurant/static/css/main.5c1c3b5f.css.map",
+    "main.36371dca.js.map": "/Luxe-Restaurant/static/js/main.36371dca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c1c3b5f.css",
+    "static/js/main.36371dca.js"
+  ]
+}
